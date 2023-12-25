@@ -10,3 +10,4 @@ console.log(users);
 // [
 //     { id: 5, name: "Ming", score: 80, grade: 4 },
 //   ];
+export {};

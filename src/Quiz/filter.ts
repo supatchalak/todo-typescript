@@ -12,3 +12,4 @@ console.log(users);
 //     { id: 4, name: "Bow", score: 70, grade: 3 },
 //     { id: 5, name: "Ming", score: 80, grade: 4 },
 //   ];
+export {};

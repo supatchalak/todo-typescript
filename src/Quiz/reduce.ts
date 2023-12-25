@@ -8,3 +8,4 @@ const users = [
 console.log(users);
 // reduce รวมคะแนนของทั้งห้อง
 // 309
+export {};
